@@ -7,6 +7,9 @@
     "url": "https://github.com/top-link"
   },
   "private": true,
+  "engines": {
+    "node": "16.x"
+  },
   "theme": {
     "primary-color": "#0073b3",
     "layout-body-background": "red",
